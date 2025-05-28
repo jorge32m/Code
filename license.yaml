@@ -1,0 +1,23 @@
+license:
+  name: Licença de Uso Estudantil Não Comercial
+  spdx_id: Custom-Student-NonCommercial
+  url: null
+  description: >
+    Este projeto foi desenvolvido para fins educacionais. É permitido o uso,
+    estudo, modificação e partilha do código apenas em contextos académicos
+    ou pessoais, desde que não envolvam qualquer tipo de finalidade comercial.
+
+  permissions:
+    - uso pessoal
+    - uso educacional
+    - modificação
+    - partilha com atribuição
+
+  conditions:
+    - incluir aviso de copyright
+    - incluir aviso de licença original
+    - proibição de uso comercial
+
+  limitations:
+    - sem garantia
+    - não pode ser utilizado para fins comerciais
